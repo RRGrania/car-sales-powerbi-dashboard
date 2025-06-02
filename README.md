@@ -1,4 +1,5 @@
 # Car Sales Power BI Dashboard
+![WhatsApp Image 2025-05-31 at 17 14 02_6a634a26](https://github.com/user-attachments/assets/8f64abf8-5609-43da-96c6-c8e84c073c0a)
 
 This repository contains a Power BI project analyzing car sales data from Kaggle. The analysis explores sales trends, customer preferences, regional variations, and car model performances over a two-year period.
 
@@ -40,6 +41,12 @@ Specify if you want to apply a license or keep it open.
 ---
 
 Feel free to contribute, open issues, or suggest improvements!
+
+
+![WhatsApp Image 2025-05-31 at 17 14 01_491eaed9](https://github.com/user-attachments/assets/7761939a-22cf-4d8a-8480-b2e4d356180d)
+![WhatsApp Image 2025-05-31 at 17 14 02_603beb32](https://github.com/user-attachments/assets/ce21d9bd-04ec-4ed2-8319-e80d844b4a96)
+![WhatsApp Image 2025-05-31 at 17 14 02_465f0bb1](https://github.com/user-attachments/assets/d8e550d0-507c-4265-b977-7ee45e3024d3)
+
 
 
 
